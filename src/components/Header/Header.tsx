@@ -42,6 +42,7 @@ const style = StyleSheet.create({
     alignItems: "center",
   },
   arrowContainer:{
+    marginLeft:-15
   },
   leftContainer: {
     height: "100%",
